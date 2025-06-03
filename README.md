@@ -23,7 +23,7 @@ FedChip is evaluated using:
 
 **APTPU-Gen** is a large-scale dataset derived from the Approximate Tensor Processing Unit (APTPU) architecture.
 
-- 📈 **30,000+ designs** across varied configurations (e.g., array size, data width, approximation mode)
+- 📈 **24,000 designs** across varied configurations (e.g., array size, data width, approximation mode)
 - ⚙️ Each design includes:
 - Verilog HDL
 - A natural language description
